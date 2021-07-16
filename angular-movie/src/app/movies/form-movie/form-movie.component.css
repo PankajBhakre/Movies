@@ -1,0 +1,13 @@
+form {
+    max-width: 500px;
+}
+ 
+mat-from-field{
+    width: 100%;
+}
+a{
+ margin-left: 1rem;
+}
+.checkbox{
+    margin-bottom: 1rem;
+}
